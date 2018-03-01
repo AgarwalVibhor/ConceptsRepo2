@@ -2,4 +2,6 @@ This is the second file in the develop branch.
 
 First change that is being made in this file.
 
+Here I am working directly on the feature branch.
 This is the third file in the series.
+This is to be viewed by the Synchronize view.
